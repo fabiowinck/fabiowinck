@@ -1,4 +1,4 @@
-## Olá! Eu sou o Fábio Winck
+## Hi! I'm Fábio Winck
  <div>
   <a href="https://github.com/fabiowinck">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=fabiowinck&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
